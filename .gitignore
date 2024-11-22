@@ -1,3 +1,11 @@
+
+# Custom gitignore
+./rooms/*
+./objects/*
+
+
+
+
 # Windows
  
 # Windows thumbnail cache files

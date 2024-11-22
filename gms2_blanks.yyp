@@ -34,7 +34,10 @@
   },
   "name":"gms2_blanks",
   "resources":[
+    {"id":{"name":"InventoryObject","path":"objects/InventoryObject/InventoryObject.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"CollisionChecker","path":"scripts/CollisionChecker/CollisionChecker.yy",},},
+    {"id":{"name":"Inventory","path":"scripts/Inventory/Inventory.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

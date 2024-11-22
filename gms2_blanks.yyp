@@ -35,9 +35,12 @@
   "name":"gms2_blanks",
   "resources":[
     {"id":{"name":"InventoryObject","path":"objects/InventoryObject/InventoryObject.yy",},},
+    {"id":{"name":"MovebleObject","path":"objects/MovebleObject/MovebleObject.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"CollisionChecker","path":"scripts/CollisionChecker/CollisionChecker.yy",},},
     {"id":{"name":"Inventory","path":"scripts/Inventory/Inventory.yy",},},
+    {"id":{"name":"MoveChecker","path":"scripts/MoveChecker/MoveChecker.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MoveChecker",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MoveChecker",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

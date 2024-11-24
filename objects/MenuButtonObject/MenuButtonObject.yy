@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"SettingsButtonObject",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"MenuButtonObject",
+  "eventList":[],
   "managed":true,
-  "name":"SettingsButtonObject",
+  "name":"MenuButtonObject",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/MainMenu/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"AbstractButtonObject",
-    "path":"objects/AbstractButtonObject/AbstractButtonObject.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SettingsButtonSprite",
-    "path":"sprites/SettingsButtonSprite/SettingsButtonSprite.yy",
+    "name":"MenuButtonSptire",
+    "path":"sprites/MenuButtonSptire/MenuButtonSptire.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"BackButtonObject",
+  "%Name":"GameController",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BackButtonObject",
+  "name":"GameController",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/MainMenu/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"AbstractButtonObject",
-    "path":"objects/AbstractButtonObject/AbstractButtonObject.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,14 +25,14 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"volume_","filters":[],"listItems":[],"multiselect":false,"name":"volume_","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"difficulty_","filters":[],"listItems":[],"multiselect":false,"name":"difficulty_","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"BackButtonSptire",
-    "path":"sprites/BackButtonSptire/BackButtonSptire.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

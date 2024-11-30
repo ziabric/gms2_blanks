@@ -1,5 +1,8 @@
 // Inherit the parent event
 event_inherited();
 
+//camera = new Camera()
+//camera.init(1280, 720, self)
+
 interface = new MainInterface()
-interface.init(200, 30)
+interface.setSize(270, 30)

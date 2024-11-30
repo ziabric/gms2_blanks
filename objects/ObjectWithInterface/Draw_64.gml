@@ -1,0 +1,1 @@
+interface.draw(xp, mana, stamina)
